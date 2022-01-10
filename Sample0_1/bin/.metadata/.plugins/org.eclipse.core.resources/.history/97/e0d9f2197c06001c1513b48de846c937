@@ -1,0 +1,23 @@
+class CarException extends Exception {
+	
+}
+
+class Car{
+	private int num;
+	private double gas;
+	
+	putblic Car() {
+		num = 0;
+		gas = 0.0;
+		System.out.println("車を作成しました");
+	}
+	public void setCar(int num, double gas) throws CarException{
+		if(g < 0) {
+			CarException e = new CarException();
+			throw e;s
+		}
+	}
+}
+public class Sample14_5 {
+
+}

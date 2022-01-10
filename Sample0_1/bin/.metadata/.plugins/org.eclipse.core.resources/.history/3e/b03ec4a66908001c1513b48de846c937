@@ -1,0 +1,32 @@
+abstract class Vehicle  {
+	protected int speed;
+	
+	public void setSpeed(int s) {
+		speed = s;
+		System.out.println("スピードを" + speed + "にしました");
+	}
+	abstract  void show();
+}
+ class Car extends Vehicle {
+	private int num;
+	private double gas;
+	
+	public Car(int n, double g) {
+		num = n;
+		gas = g;
+		System.out.println("ナンバー" + num + "ガソリン量" + gas + "の車を作成しました");
+	}
+	 public void show() {
+		System.out.println("車のナンバーは" + num + "です");
+		System.out.println("ガソリン量は" + gas + "です");
+		System.out.println("スピードは" + speed + "です");
+	}
+}
+
+public class Sample2_6 {
+	public static void main(String[] args) {
+		Car car = new Car(1234, 20.5);
+		car.show();
+	}
+
+}

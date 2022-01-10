@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;Saa&apos; を &apos;Sample16_7&apos; に名前変更します&#x0A;- 元のプロジェクト: &apos;Sample16_7&apos;&#x0A;- オリジナル要素: &apos;Saa&apos;&#x0A;- 名前変更済み要素: &apos;Sample16_7&apos;&#x0A;- リファクタリングされた要素の参照を更新&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;Saa&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Saa.java[Saa" matchStrategy="1" name="Sample16_7" qualified="false" references="true" similarDeclarations="false" stamp="1630240049609" textual="false" version="1.0"/>
+</session>

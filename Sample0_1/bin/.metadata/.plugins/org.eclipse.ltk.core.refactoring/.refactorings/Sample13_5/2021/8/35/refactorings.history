@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ名 &apos;pa&apos; を &apos;pc&apos; に変更します&#x0A;- 元のプロジェクト: &apos;Sample13_5&apos;&#x0A;- オリジナル要素: &apos;Sample13_5/src/pa&apos;&#x0A;- 名前変更済み要素: &apos;Sample13_5/src/pc&apos;&#x0A;- リファクタリングされた要素の参照を更新&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="パッケージ名 &apos;pa&apos; を変更します" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;pa" name="pc" qualified="false" references="true" stamp="1629642119725" textual="false" version="1.0"/>
+</session>

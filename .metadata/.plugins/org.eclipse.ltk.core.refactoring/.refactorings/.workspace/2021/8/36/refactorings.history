@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Java プロジェクト名 &apos;Sanple15_6&apos; を &apos;Sample15_6&apos; に変更&#x0A;- オリジナル要素: &apos;Sanple15_6&apos;&#x0A;- 名前変更済み要素: &apos;Sanple15_6&apos;&#x0A;- リファクタリングされた要素の参照を更新" description="Java プロジェクト &apos;Sanple15_6&apos; の名前変更" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Sanple15_6" name="Sample15_6" references="true" stamp="1630224893736" version="1.0"/>
+</session>
